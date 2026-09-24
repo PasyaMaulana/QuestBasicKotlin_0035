@@ -12,3 +12,7 @@
 ## Tipe Data Dasar
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/197e832d-1ab4-4d20-8705-03f7a707ea94" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e35c2285-9e5b-49c0-b27c-e36125772ead" />
+
+## Collection - List
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf1db104-fe7a-4b0a-b0b8-ec641082a8a6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/556e592f-ee88-4be4-8b0d-9c752c382795" />
