@@ -47,3 +47,5 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3e07107-9d71-4e5d-b5f9-e60b34c4c8b0" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0617ecff-e91e-4315-95d3-24ae69bcc2c8" />
 
+## Lambda Expressions
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45e6e6da-fc56-4405-8234-3d7c75616479" />
