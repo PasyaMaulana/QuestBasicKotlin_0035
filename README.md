@@ -36,3 +36,6 @@
 
 ## Loops - For
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5983f049-10eb-44b0-9ff6-30d5cd95d3b6" />
+
+## Loops - While
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3756e2b8-784c-4f47-bbce-fa91774feb1f" />
