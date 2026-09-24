@@ -52,3 +52,6 @@
 
 ## Class - Create Instance, Access Properties, Member Functions
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c7507f6-02e3-4531-8f4b-9d3d6ff4af14" />
+
+## Data Classes
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea1dae20-c5b1-44cd-a58f-5ea1346ce691" />
