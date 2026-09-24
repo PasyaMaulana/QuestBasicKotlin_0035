@@ -49,3 +49,6 @@
 
 ## Lambda Expressions
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45e6e6da-fc56-4405-8234-3d7c75616479" />
+
+## Class - Create Instance, Access Properties, Member Functions
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c7507f6-02e3-4531-8f4b-9d3d6ff4af14" />
