@@ -26,3 +26,7 @@
 
 ## Conditional Expressions - If
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56f11f60-22b2-44b3-8dc7-d5fd3093806d" />
+
+## Conditional Expressions - When
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34bfec49-3189-49fd-990c-7f97fb8381a2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be1c90ff-eea6-4bee-be9d-83565168df1e" />
