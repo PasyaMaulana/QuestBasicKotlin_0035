@@ -55,3 +55,7 @@
 
 ## Data Classes
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea1dae20-c5b1-44cd-a58f-5ea1346ce691" />
+
+## Null Safety
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d54d1975-cd39-451c-8de6-098647bee478" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74e543db-766e-46ba-87f5-f8cd6f7031e4" />
