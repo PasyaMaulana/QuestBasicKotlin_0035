@@ -33,3 +33,6 @@
 
 ## Ranges
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c296bfff-7d8a-4763-9d18-86daececf555" />
+
+## Loops - For
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5983f049-10eb-44b0-9ff6-30d5cd95d3b6" />
