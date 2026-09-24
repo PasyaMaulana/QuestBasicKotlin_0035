@@ -8,3 +8,7 @@
 
 ## String Templates
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d57cf91e-5695-4740-af98-d739e2b4c406" />
+
+## Tipe Data Dasar
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/197e832d-1ab4-4d20-8705-03f7a707ea94" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e35c2285-9e5b-49c0-b27c-e36125772ead" />
