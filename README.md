@@ -42,3 +42,8 @@
 
 ## Loops - Do-While
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fbb5f0e-d752-4f38-ad26-108a2827bb1d" />
+
+## Functions - Named Arguments, Default Parameter Values, Functions Without Return
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3e07107-9d71-4e5d-b5f9-e60b34c4c8b0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0617ecff-e91e-4315-95d3-24ae69bcc2c8" />
+
